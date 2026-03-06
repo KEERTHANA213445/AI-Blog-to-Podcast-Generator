@@ -3,7 +3,7 @@
 An AI-powered application that converts blog articles into podcast-style audio episodes.
 Simply paste a blog URL and the app will generate a conversational podcast script and audio narration.
 
-## Screenshots
+## Demo
 ![Home](assets/demo1.png)
 ![Podcast Generation](assets/demo2.png)
 
