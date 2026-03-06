@@ -62,6 +62,10 @@ streamlit run blog_to_podcast_agent.py
 4. ElevenLabs generates **AI voice narration**
 5. Streamlit plays the generated podcast audio
 
+## Screenshots
+![Home](assets/demo1.png)
+![Podcast Generation](assets/demo2.png)
+
 ## 📂 Project Structure
 
 ```
