@@ -20,10 +20,6 @@ Simply paste a blog URL and the app will generate a conversational podcast scrip
 * **ElevenLabs** – Text-to-Speech audio generation
 * **Python** – Backend logic
 
-## 📸 Demo
-
-![App Demo](assets/demo.png)
-
 ## ⚙️ Installation
 
 Clone the repository:
