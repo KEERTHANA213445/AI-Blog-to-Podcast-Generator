@@ -3,6 +3,10 @@
 An AI-powered application that converts blog articles into podcast-style audio episodes.
 Simply paste a blog URL and the app will generate a conversational podcast script and audio narration.
 
+## Screenshots
+![Home](assets/demo1.png)
+![Podcast Generation](assets/demo2.png)
+
 ## 🚀 Features
 
 * Extracts blog content automatically from a URL
@@ -61,10 +65,6 @@ streamlit run blog_to_podcast_agent.py
 3. Groq LLM converts the blog into a **podcast conversation script**
 4. ElevenLabs generates **AI voice narration**
 5. Streamlit plays the generated podcast audio
-
-## Screenshots
-![Home](assets/demo1.png)
-![Podcast Generation](assets/demo2.png)
 
 ## 📂 Project Structure
 
